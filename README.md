@@ -82,6 +82,20 @@ README.md     ← questo file
 
 ---
 
+## Contribuire
+
+Chiunque può contribuire al progetto — pull request, segnalazioni di bug e suggerimenti sono benvenuti.
+
+Alcune idee su come aiutare:
+- Testare il visualizzatore con fatture reali e segnalare eventuali anomalie
+- Aggiungere il supporto a campi FatturaPA non ancora visualizzati
+- Migliorare l'interfaccia grafica o l'accessibilità
+- Segnalare bug aprendo una [issue](../../issues)
+
+Trattandosi di un singolo file HTML senza dipendenze, contribuire è semplice: basta modificare `index.html` e aprire una pull request.
+
+---
+
 ## Specifiche di riferimento
 
 - [Specifiche tecniche FatturaPA v1.2](https://www.fatturapa.gov.it/it/norme-e-regole/documentazione-fattura-elettronica/)
