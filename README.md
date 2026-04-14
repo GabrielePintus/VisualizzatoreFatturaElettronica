@@ -84,7 +84,7 @@ README.md     ← questo file
 
 ## Contribuire
 
-Chiunque può contribuire al progetto — pull request, segnalazioni di bug e suggerimenti sono benvenuti.
+Chiunque può contribuire al progetto. Pull request, segnalazioni di bug e suggerimenti sono benvenuti.
 
 Alcune idee su come aiutare:
 - Testare il visualizzatore con fatture reali e segnalare eventuali anomalie
@@ -100,4 +100,4 @@ Trattandosi di un singolo file HTML senza dipendenze, contribuire è semplice: b
 
 - [Specifiche tecniche FatturaPA v1.2](https://www.fatturapa.gov.it/it/norme-e-regole/documentazione-fattura-elettronica/)
 - Namespace XML: `http://ivaservizi.agenziaentrate.gov.it/docs/xsd/fatture/v1.2`
-- Agenzia delle Entrate — Sistema di Interscambio (SdI)
+- Agenzia delle Entrate, Sistema di Interscambio (SdI)
